@@ -9,10 +9,10 @@ const CartItem = props => {
 
     console.log(parsedItems)
 
-    
+
 
     return(
-        <div className="cart"><a href="/cart"> {parsedItems.length} items</a></div>
+        <div className="cart"><a href="/cart"> {parsedItems ? parsedItems.length : '0'} items</a></div>
     )
 }
 

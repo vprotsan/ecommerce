@@ -9,30 +9,31 @@ class CartPage extends React.Component {
     render(){
 
         let currItems = localStorage.getItem('session');
-        // let currItems = localStorage.getItem('cartItems');
         let parsedItems = JSON.parse(currItems)
 
-        console.log(parsedItems)
+        //get subtotal
+        let sum = 0
+        parsedItems.forEach(item => {
+            if (item.price){
+                sum += item.price
+            }
+        })
+        var roundedSub = parseFloat(sum).toFixed(2)
 
         let cartItems = parsedItems.map(i => {
-
-            return <tr>
-                        {console.log('mapping')}
+            return <tr key={Date.now()}>
                         <td className="col-sm-8 col-md-6">
                             <div className="media">
                                 <a className="thumbnail pull-left" href="#"> <img className="media-object" src="http://icons.iconarchive.com/icons/custom-icon-design/flatastic-2/72/product-icon.png" /> </a>
                                 <div className="media-body">
-                                    <h4 className="media-heading"><a href="#">{i.name}</a></h4>
-                                    <h5 className="media-heading"> by <a href="#">Brand name</a></h5>
-                                    <span>Status: </span><span className="text-success"><strong>In Stock</strong></span>
+                                    <h4 className="media-heading"><a href={`products/${i.id}`}>{i.name}</a></h4>
                                 </div>
                             </div>
                         </td>
                         <td className="col-sm-1 col-md-1" >
                         <input type="email" className="form-control" id="exampleInputEmail1" value="3" />
                         </td>
-                        <td className="col-sm-1 col-md-1 text-center"><strong>$4.87</strong></td>
-                        <td className="col-sm-1 col-md-1 text-center"><strong>$14.61</strong></td>
+                        <td className="col-sm-1 col-md-1 text-center"><strong>{i.name}</strong></td>
                         <td className="col-sm-1 col-md-1">
                         <button type="button" className="btn btn-danger">
                             <span className="glyphicon glyphicon-remove"></span> Remove
@@ -62,7 +63,7 @@ class CartPage extends React.Component {
                                         <td>   </td>
                                         <td>   </td>
                                         <td><h5>Subtotal</h5></td>
-                                        <td className="text-right"><h5><strong>$24.59</strong></h5></td>
+                                        <td className="text-right"><h5><strong>{roundedSub}</strong></h5></td>
                                     </tr>
                                     <tr>
                                         <td>   </td>

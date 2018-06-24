@@ -48,7 +48,7 @@ class App extends React.Component {
 
   clickedItem = index => {
     let currItem = this.state.products[index];
-    let currObj = this.state.products[index];
+    // let currObj = this.state.products[index];
     // console.log('curr item' + this.state.currItem);
 
 		this.setState({

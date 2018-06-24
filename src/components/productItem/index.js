@@ -1,11 +1,22 @@
 import React, { PropTypes } from 'react';
 
-const ProductItem = ({match, props}) => {
-  console.log('p', match);
-  const i = props.x.find(x => x.id === match.id);
-    return(
-          <h1>{i.name}</h1>
-    )
+const ProductItem = (props) => {
+  console.log('params ' + props.match.params.id);
+
+  console.log('products ' + props.x);
+  let allItems = props.x
+  let currItem
+
+  allItems.find(item => {
+    if (item.id === props.match.params.id){
+      console.log(item)
+      currItem = <div>{item.name}</div>
+    }
+  })
+
+  return(
+        <div>{currItem}</div>
+  )
 }
 
 export default ProductItem
