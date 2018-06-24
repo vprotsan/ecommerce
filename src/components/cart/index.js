@@ -7,41 +7,42 @@ class CartPage extends React.Component {
     }
 
     render(){
-
         let currItems = localStorage.getItem('session');
         let parsedItems = JSON.parse(currItems)
 
-        //get subtotal
-        let sum = 0
-        parsedItems.forEach(item => {
-            if (item.price){
-                sum += item.price
-            }
-        })
-        var roundedSub = parseFloat(sum).toFixed(2)
+        if(parsedItems){
+            let sum = 0
+            parsedItems.forEach(item => {
+                if (item.price){
+                    sum += item.price
+                }
+            })
+            var roundedSub = parseFloat(sum).toFixed(2)
 
-        let cartItems = parsedItems.map(i => {
-            return <tr key={Date.now()}>
-                        <td className="col-sm-8 col-md-6">
-                            <div className="media">
-                                <a className="thumbnail pull-left" href="#"> <img className="media-object" src="http://icons.iconarchive.com/icons/custom-icon-design/flatastic-2/72/product-icon.png" /> </a>
-                                <div className="media-body">
-                                    <h4 className="media-heading"><a href={`products/${i.id}`}>{i.name}</a></h4>
+
+            let cartItems = parsedItems.map(i => {
+                return <tr key={Date.now()}>
+                            <td className="col-sm-8 col-md-6">
+                                <div className="media">
+                                    <a className="thumbnail pull-left" href="#"> <img className="media-object" src="http://icons.iconarchive.com/icons/custom-icon-design/flatastic-2/72/product-icon.png" /> </a>
+                                    <div className="media-body">
+                                        <h4 className="media-heading"><a href={`products/${i.id}`}>{i.name}</a></h4>
+                                    </div>
                                 </div>
-                            </div>
-                        </td>
-                        <td className="col-sm-1 col-md-1" >
-                        <input type="email" className="form-control" id="exampleInputEmail1" value="3" />
-                        </td>
-                        <td className="col-sm-1 col-md-1 text-center"><strong>{i.name}</strong></td>
-                        <td className="col-sm-1 col-md-1">
-                        <button type="button" className="btn btn-danger">
-                            <span className="glyphicon glyphicon-remove"></span> Remove
-                        </button></td>
-                    </tr>
+                            </td>
+                            <td className="col-sm-1 col-md-1" >
+                            <input type="email" className="form-control" id="exampleInputEmail1" value="3" />
+                            </td>
+                            <td className="col-sm-1 col-md-1 text-center"><strong>{i.name}</strong></td>
+                            <td className="col-sm-1 col-md-1">
+                            <button type="button" className="btn btn-danger">
+                                <span className="glyphicon glyphicon-remove"></span> Remove
+                            </button></td>
+                        </tr>
 
-        })
-
+            })
+        }
+        
         return(
             <div className="container">
                     <div className="row">
@@ -57,7 +58,7 @@ class CartPage extends React.Component {
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    {cartItems}
+                                    {cartItems ? cartItems : 'Cart is empty'}
                                     <tr>
                                         <td>   </td>
                                         <td>   </td>

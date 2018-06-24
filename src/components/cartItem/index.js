@@ -4,12 +4,7 @@ import React from 'react';
 const CartItem = props => {
 
     let currItems = localStorage.getItem('session');
-    // let currItems = localStorage.getItem('cartItems');
     let parsedItems = JSON.parse(currItems)
-
-    console.log(parsedItems)
-
-
 
     return(
         <div className="cart"><a href="/cart"> {parsedItems ? parsedItems.length : '0'} items</a></div>
