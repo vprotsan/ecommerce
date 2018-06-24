@@ -42,7 +42,7 @@ class CartPage extends React.Component {
 
             })
         }
-        
+
         return(
             <div className="container">
                     <div className="row">
@@ -58,7 +58,7 @@ class CartPage extends React.Component {
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    {cartItems ? cartItems : 'Cart is empty'}
+                                    {parsedItems ? cartItems : 'Cart is empty'}
                                     <tr>
                                         <td>   </td>
                                         <td>   </td>
