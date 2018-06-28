@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "1",
+    "name": "P-51 Mustang Fighter",
+    "description": "A veteran of World War II and the Korean War, North American Aviation’s P-51 Mustang was the first U.S. built fighter airplane to push its nose over Europe after the fall of France. Mustangs met and conquered every German plane from the early Junkers to the sleek, twin-jet Messerschmitt 262s. Although first designed for the British as a medium-altitude fighter, the Mustang excelled in hedge-hopping strafing runs and long-range escort duty. It made a name for itself by blasting trains, ships and enemy installations in Western Europe and by devastating Axis defenses before the Allied invasion of Italy. The Mustang was the first single-engine plane based in Britain to penetrate Germany, first to reach Berlin, first to go with the heavy bombers over the Ploiesti oil fields in Romania, and first to make a major-scale, all-fighter sweep specifically to hunt down the dwindling Luftwaffe.",
+    "brand": "Boeing",
+    "price": 10.99,
+    "sale_price": 9.81,
+    "inventory": 28,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/aeroplane@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/aeroplane@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/aeroplane@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/aeroplane@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/aeroplane@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/aeroplane@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/aeroplane-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/aeroplane-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/aeroplane-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/aeroplane-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/aeroplane-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/aeroplane-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/aeroplane-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/aeroplane-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/aeroplane-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Green, yellow"
+      },
+      {
+        "label": "Material",
+        "value": "Balsa wood"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [
+      "Featured",
+      "New"
+    ],
+    "related_products": [
+      "2",
+      "8"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Single Prop Plane",
+    "description": "The Boeing 737 is a short- to medium-range twinjet narrow-body airliner developed and manufactured by Boeing Commercial Airplanes in the United States. Originally developed as a shorter, lower-cost twin-engine airliner derived from the 707 and 727, the 737 has developed into a family of ten passenger models with capacities from 85 to 215 passengers.",
+    "brand": "Airbus",
+    "price": 49.99,
+    "sale_price": null,
+    "inventory": 0,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/airplane@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/airplane@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/airplane@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/airplane@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/airplane@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/airplane@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/airplane-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/airplane-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/airplane-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/airplane-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/airplane-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/airplane-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/airplane-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/airplane-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/airplane-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "White, blue"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [
+      "Limited Time Only"
+    ],
+    "related_products": [
+      "1",
+      "8"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Backpack",
+    "description": "JanSport is an American brand of backpacks and collegiate apparel, now owned by VF Corporation, one of the world's largest apparel companies. JanSport is the world's largest backpack maker, and together, JanSport and The North Face, also owned by VF Corporation, sell nearly half of all small backpacks sold in the United States.",
+    "brand": "Jansport",
+    "price": 12.99,
+    "sale_price": null,
+    "inventory": 10,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/backpack@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/backpack@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/backpack@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/backpack@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/backpack@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/backpack@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/backpack-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/backpack-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/backpack-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/backpack-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/backpack-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/backpack-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/backpack-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/backpack-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/backpack-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Green, brown, black"
+      },
+      {
+        "label": "Material",
+        "value": "Nylon"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [],
+    "related_products": [
+      "4"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Notebook",
+    "description": "This is an elegant and versatile notebook for writing all of your thoughts, taking notes, and recording your day. Bound in soft and supple calfskin, dyed a rich warm black, the journals feature lined writing pages. Subtle markings make each journal one of a kind.",
+    "brand": "Mead",
+    "price": 22.99,
+    "sale_price": 19.99,
+    "inventory": 100,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/aeroplane@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/aeroplane@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/aeroplane@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/aeroplane@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/aeroplane@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/aeroplane@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/aeroplane-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/aeroplane-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/aeroplane-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/aeroplane-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/aeroplane-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/aeroplane-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/aeroplane-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/aeroplane-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/aeroplane-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Gray, blacm"
+      },
+      {
+        "label": "Material",
+        "value": "Leather, paper"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [],
+    "related_products": [
+      "3"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Canoe",
+    "description": "A canoe is a lightweight narrow vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel using a single-bladed paddle. In some European countries such as the United Kingdom the term canoe can also refer to a kayak, while canoes are then called Canadian canoes to distinguish them from kayaks. Canoes are widely used for competition and pleasure, such as racing, whitewater, touring and camping, freestyle, and general recreation. Canoeing has been part of the Olympics since 1936. The intended use of the canoe dictates its hull shape and length and construction material. Historically, canoes were dugouts or made of bark on a wood frame, but construction materials evolved to canvas on a wood frame, then to aluminum. Most modern canoes are made of molded plastic or composites such as fiberglass. Canoes were developed by cultures all over the world, including some designed for use with sails or outriggers. Until the mid-1800s the canoe was an important means of transport for exploration and trade, and in some places it still is used as such, perhaps with the addition of an outboard motor. Where the canoe played a key role in history, such as the northern United States, Canada, and New Zealand, it remains an important theme in popular culture.",
+    "brand": "Solo",
+    "price": 122.99,
+    "sale_price": null,
+    "inventory": 49,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/canoe@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/canoe@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/canoe@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/canoe@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/canoe@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/canoe@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/canoe-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/canoe-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/canoe-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/canoe-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/canoe-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/canoe-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/canoe-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/canoe-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/canoe-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Brown"
+      },
+      {
+        "label": "Material",
+        "value": "Cedar"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [],
+    "related_products": []
+  },
+  {
+    "id": "6",
+    "name": "Microcontroller",
+    "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online.",
+    "brand": "Arduino",
+    "price": 9.99,
+    "sale_price": null,
+    "inventory": 16,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/circuitboard@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/circuitboard@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/circuitboard@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/circuitboard@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/circuitboard@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/circuitboard@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/circuitboard-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/circuitboard-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/circuitboard-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/circuitboard-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/circuitboard-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/circuitboard-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/circuitboard-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/circuitboard-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/circuitboard-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Green, blue, yellow, black"
+      },
+      {
+        "label": "Material",
+        "value": "Fiberglass, copper"
+      },
+      {
+        "label": "Operational",
+        "value": "Yes"
+      }
+    ],
+    "tags": [],
+    "related_products": []
+  },
+  {
+    "id": "7",
+    "name": "DeLorean",
+    "description": "From the cult movie trilogy 'Back to the Future' comes this great diecast model of the time-traveling De Lorean. The accurate 1/24 scale replica measures approx. 18 cm in length and comes in a window box packaging.",
+    "brand": "DMC",
+    "price": 349.99,
+    "sale_price": null,
+    "inventory": 5,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/delorean@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/delorean@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/delorean@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/delorean@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/delorean@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/delorean@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/delorean-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/delorean-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/delorean-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/delorean-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/delorean-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/delorean-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/delorean-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/delorean-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/delorean-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Gray"
+      },
+      {
+        "label": "Material",
+        "value": "Various"
+      },
+      {
+        "label": "Operational",
+        "value": "Yes"
+      }
+    ],
+    "tags": [
+      "Featured"
+    ],
+    "related_products": [
+      "8",
+      "12",
+      "15"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Drone",
+    "description": "An uprated camera is equipped with a 1-inch 20-megapixel sensor capable of shooting 4K/60fps video and Burst Mode stills at 14 fps. The adoption of titanium alloy and magnesium alloy construction increases the rigidity of the airframe and  reduces weight, making the Phantom 4 Pro similar in weight to the Phantom 4. The FlightAutonomy system adds dual rear vision sensors  and infrared sensing systems for a total of 5-direction of obstacle sensing and 4-direction of obstacle avoidance.",
+    "brand": "Phantom",
+    "price": 349.99,
+    "sale_price": null,
+    "inventory": 5,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/drone@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/drone@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/drone@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/drone@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/drone@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/drone@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/drone-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/drone-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/drone-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/drone-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/drone-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/drone-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/drone-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/drone-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/drone-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Black, gray"
+      },
+      {
+        "label": "Material",
+        "value": "Plastic"
+      },
+      {
+        "label": "Operational",
+        "value": "Yes"
+      }
+    ],
+    "tags": [
+      "Featured"
+    ],
+    "related_products": [
+      "7"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Gameboi",
+    "description": "The Game Boi line is a line of handheld game consoles developed, manufactured, and marketed by Nintendi. The product line has sold 200 million units worldwide. The original Game Boi and Game Boi Color combined sold 118.69 million units worldwide. All versions of the Game Boi Advance combined have sold 81.51 million units. All Game Boi systems combined have sold 200.20 million units worldwide. The Game Boi line was succeeded by the Nintendi DS line. A number of Game Boi, Game Boi Color, and Game Boi Advance games have been rereleased digitally through the Virtual Console service for the Nintendi 3DS and Wii U.",
+    "brand": "Nintendi",
+    "price": 39.99,
+    "sale_price": 34.99,
+    "inventory": 5,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/gameboi@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/gameboi@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/gameboi@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/gameboi@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/gameboi@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/gameboi@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/gameboi-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/gameboi-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/gameboi-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/gameboi-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/gameboi-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/gameboi-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/gameboi-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/gameboi-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/gameboi-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "White"
+      },
+      {
+        "label": "Material",
+        "value": "Plastic"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [
+      "New"
+    ],
+    "related_products": []
+  },
+  {
+    "id": "10",
+    "name": "Golf Cart",
+    "description": "A golf cart (called golf car in ANSI standard Z130.1, since carts are not self-propelled) is a small vehicle designed originally to carry two golfers and their golf clubs around a golf course or on desert trails with less effort than walking.",
+    "brand": "Titleist",
+    "price": 8.99,
+    "sale_price": null,
+    "inventory": 5,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/golfcart@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/golfcart@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/golfcart@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/golfcart@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/golfcart@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/golfcart@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/golfcart-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/golfcart-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/golfcart-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/golfcart-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/golfcart-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/golfcart-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/golfcart-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/golfcart-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/golfcart-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Green, white"
+      },
+      {
+        "label": "Material",
+        "value": "Rubber"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [
+      "New"
+    ],
+    "related_products": []
+  },
+  {
+    "id": "11",
+    "name": "Hoverboard",
+    "description": "A self-balancing scooter (also 'hoverboard', self-balancing board) is a self-balancing personal transporter consisting of two motorized wheels connected to a pair of articulated pads on which the rider places their feet. The rider controls the speed by leaning forwards or backwards, and direction of travel by twisting the pads. Invented in its current form in early 2013, the device is the subject of complex patent disputes. Volume manufacture started in China in 2014 and early units were prone to catch fire due to an overheating battery which resulted in product recalls in 2016, including one of 500,000 units sold in the United States from 8 manufacturers.",
+    "brand": "Segway",
+    "price": 18.99,
+    "sale_price": null,
+    "inventory": 2,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/hoverboard@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/hoverboard@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/hoverboard@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/hoverboard@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/hoverboard@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/hoverboard@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/hoverboard-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/hoverboard-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/hoverboard-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/hoverboard-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/hoverboard-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/hoverboard-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/hoverboard-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/hoverboard-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/hoverboard-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Plastic, rubber"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [],
+    "related_products": [
+      "20",
+      "24"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Karma",
+    "description": "The Fisker Karma was a premium plug-in range-extended electric luxury sports sedan produced by Fisker Automotive in 2012. The cars were manufactured at Valmet Automotive in Finland. The United States Environmental Protection Agency (EPA) rated the Karma's combined city/highway fuel economy at 52 mpg‑US (4.5 L/100 km; 62 mpg‑imp) equivalent (MPG-e) in all-electric mode, and at 20 mpg‑US (12 L/100 km; 24 mpg‑imp) in gasoline-only mode. EPA's official all-electric range is 32 mi (51 km). Due to the very small cabin interior volume, the EPA rated the Fisker Karma as a subcompact car.",
+    "brand": "Fisker",
+    "price": 18.99,
+    "sale_price": null,
+    "inventory": 0,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/karma@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/karma@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/karma@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/karma@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/karma@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/karma@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/karma-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/karma-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/karma-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/karma-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/karma-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/karma-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/karma-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/karma-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/karma-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Blue, black"
+      },
+      {
+        "label": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [
+      "Featured"
+    ],
+    "related_products": [
+      "7",
+      "15"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Block",
+    "description": "The Lego Group began manufacturing the interlocking toy bricks in 1949. Since then a global Lego subculture has developed. Supporting movies, games, competitions, and six Legoland amusement parks have been developed under the brand. As of July 2015, 600 billion Lego parts had been produced.",
+    "brand": "Lego",
+    "price": 18.99,
+    "sale_price": null,
+    "inventory": 2,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/lego@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/lego@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/lego@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/lego@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/lego@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/lego@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/lego-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/lego-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/lego-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/lego-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/lego-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/lego-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/lego-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/lego-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/lego-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Red"
+      },
+      {
+        "label": "Material",
+        "value": "Plastic"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [],
+    "related_products": []
+  },
+  {
+    "id": "14",
+    "name": "Mech",
+    "description": "The term mecha (メカ meka) may refer to both scientific ideas and science fiction genres that center on giant robots or machines controlled by people. Mechas are typically depicted as humanoid mobile robots. These machines vary greatly in size and shape, but are distinguished from vehicles by their humanoid or biomorphic appearance and size—bigger than a human. Different subgenres exist, with varying connotations of realism. The concept of Super Robot and Real Robot are two such examples found in Japanese anime. The term may also refer to real world piloted humanoid robots/non-humanoid robotic platforms, either currently in existence or still on the drawing board (i.e. at the planning or design stage). Alternatively, in the original Japanese context of the word, 'mecha' may refer to mobile machinery/vehicles (including aircraft) in general, manned or otherwise.",
+    "brand": "Boston Dynamics",
+    "price": 1799.99,
+    "sale_price": null,
+    "inventory": 2,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/mech@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/mech@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/mech@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/mech@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/mech@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/mech@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/mech-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/mech-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/mech-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/mech-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/mech-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/mech-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/mech-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/mech-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/mech-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Gray, black, red"
+      },
+      {
+        "label": "Material",
+        "value": "Vaious"
+      },
+      {
+        "label": "Operational",
+        "value": "Yes"
+      }
+    ],
+    "tags": [
+      "Featured",
+      "New"
+    ],
+    "related_products": [
+      "6",
+      "19"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "CBR1000 Motorcycle",
+    "description": "The CBR1000RR, known in some countries as the Fireblade, is a 998 cc (60.9 cu in) liquid-cooled inline four-cylinder sportbike, introduced by Honda in 2004 as the 7th generation of the CBR series of motorcycles that began with the CBR900RR in 1992.",
+    "brand": "Honda",
+    "price": 19.99,
+    "sale_price": null,
+    "inventory": 12,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/motorcycle@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/motorcycle@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/motorcycle@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/motorcycle@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/motorcycle@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/motorcycle@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/motorcycle-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/motorcycle-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/motorcycle-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/motorcycle-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/motorcycle-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/motorcycle-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/motorcycle-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/motorcycle-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/motorcycle-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Red, black, silver"
+      },
+      {
+        "label": "Material",
+        "value": "Plastic"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [
+      "Featured",
+      "New"
+    ],
+    "related_products": [
+      "7",
+      "12"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "R2D2",
+    "description": "R2-D2 (/ˌɑːrtuːˈdiːtuː/), or Artoo-Detoo[citation needed], is a fictional robot character in the Star Wars franchise created by George Lucas. A small astromech droid, R2-D2 is a major character and appears in only nine out of the ten Star Wars films to date. Throughout the course of the films, R2 is a friend to Padmé Amidala, Anakin Skywalker, Leia Organa, Luke Skywalker, and Obi-Wan Kenobi in various points in the saga.",
+    "brand": "Star Wars",
+    "price": 199.99,
+    "sale_price": 174.99,
+    "inventory": 12,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/r2d2@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/r2d2@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/r2d2@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/r2d2@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/r2d2@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/r2d2@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/r2d2-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/r2d2-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/r2d2-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/r2d2-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/r2d2-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/r2d2-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/r2d2-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/r2d2-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/r2d2-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "White, black, blue"
+      },
+      {
+        "label": "Material",
+        "value": "Misc metals"
+      },
+      {
+        "label": "Operational",
+        "value": "Yes"
+      }
+    ],
+    "tags": [
+      "Featured"
+    ],
+    "related_products": [
+      "14",
+      "17"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Ray Gun",
+    "description": "A raygun is a science fiction particle-beam weapon that fires what is usually destructive energy. They have various alternate names: ray gun, death ray, beam gun, blaster, laser gun, laser pistol, phaser, zap gun, etc. In most stories, when activated, a raygun emits a ray, typically visible, usually lethal if it hits a human target, often destructive if it hits mechanical objects, with properties and other effects unspecified or varying. Real-life analogues are directed-energy weapons or electrolasers, electroshock weapons which send current along an electrically conductive laser-induced plasma channel.",
+    "brand": "ACME",
+    "price": 9.99,
+    "sale_price": null,
+    "inventory": 109,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/raygun@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/raygun@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/raygun@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/raygun@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/raygun@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/raygun@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/raygun-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/raygun-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/raygun-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/raygun-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/raygun-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/raygun-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/raygun-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/raygun-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/raygun-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Gray, yellow, red, white"
+      },
+      {
+        "label": "Material",
+        "value": "Plastic"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [
+      "Featured"
+    ],
+    "related_products": [
+      "14",
+      "16"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Remote Control",
+    "description": "A universal remote is a remote control that can be programmed to operate various brands of one or more types of consumer electronics devices. Low-end universal remotes can only control a set number of devices determined by their manufacturer, while mid- and high-end universal remotes allow the user to program in new control codes to the remote. Many remotes sold with various electronic include universal remote capabilities for other types of devices, which allow the remote to control other devices beyond the device it came with. For example, a VCR remote may be programmed to operate various brands of televisions.",
+    "brand": "GE",
+    "price": 14.99,
+    "sale_price": null,
+    "inventory": 0,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/remote@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/remote@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/remote@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/remote@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/remote@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/remote@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/remote-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/remote-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/remote-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/remote-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/remote-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/remote-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/remote-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/remote-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/remote-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Black"
+      },
+      {
+        "label": "Material",
+        "value": "Plastic"
+      },
+      {
+        "label": "Operational",
+        "value": "Yes"
+      }
+    ],
+    "tags": [],
+    "related_products": []
+  },
+  {
+    "id": "19",
+    "name": "Robo Dog",
+    "description": "Robotic dogs are robots designed to resemble dogs in appearance and behavior, usually incorporating canine characteristics such as barking or tail-wagging. In addition, many such 'dogs' have appeared as toys and in fiction.",
+    "brand": "Boston Dynamics",
+    "price": 14.99,
+    "sale_price": null,
+    "inventory": 1,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/remote@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/remote@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/remote@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/remote@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/remote@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/remote@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/remote-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/remote-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/remote-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/remote-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/remote-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/remote-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/remote-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/remote-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/remote-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Orange, white"
+      },
+      {
+        "label": "Material",
+        "value": "Vibranium"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [],
+    "related_products": [
+      "14",
+      "6"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Roller Skates",
+    "description": "While the first reported use of roller skates was on a London stage in 1743, the first patented roller skate was introduced in 1760 by Belgian inventor John Joseph Merlin. His roller skate wasn't much more than an ice skate with wheels where the blade goes, a style we would call inline today. They were hard to steer and hard to stop because they didn't have brakes and, as such, were not very popular. The initial 'test piloting' of the first prototype of the skate was in the city of Huy, which had a party with Merlin playing the violin.",
+    "brand": "Hotwheels",
+    "price": 44.99,
+    "sale_price": null,
+    "inventory": 20,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/rollerskate@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/rollerskate@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/rollerskate@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/rollerskate@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/rollerskate@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/rollerskate@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/rollerskate-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/rollerskate-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/rollerskate-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/rollerskate-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/rollerskate-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/rollerskate-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/rollerskate-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/rollerskate-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/rollerskate-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "White, pink, teal"
+      },
+      {
+        "label": "Material",
+        "value": "Leather, plastic, rubber"
+      },
+      {
+        "label": "Operational",
+        "value": "Yes"
+      }
+    ],
+    "tags": [
+      "Featured",
+      "New"
+    ],
+    "related_products": [
+      "11",
+      "24"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Sneakers",
+    "description": "This athletic version of a classic canvas boat shoe gets you out on deck in sporty style. ENCAP midsole cushioning helps support your sea legs, and the canvas upper sports a hint of texture to add to the nautical look. The leather 'N' logos and Achilles collar, along with a bold rubber heel stabilizer, add contrast and make the 574 Sea Escape stand out.",
+    "brand": "New Balance",
+    "price": 89.99,
+    "sale_price": 79.99,
+    "inventory": 10,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/sneaker@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/sneaker@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/sneaker@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/sneaker@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/sneaker@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/sneaker@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/sneaker-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/sneaker-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/sneaker-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/sneaker-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/sneaker-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/sneaker-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/sneaker-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/sneaker-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/sneaker-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Red, white, blue"
+      },
+      {
+        "label": "Material",
+        "value": "Leather, suede, textile"
+      },
+      {
+        "label": "Operational",
+        "value": "Yes"
+      }
+    ],
+    "tags": [
+      "Limited Time Only"
+    ],
+    "related_products": []
+  },
+  {
+    "id": "22",
+    "name": "Vive",
+    "description": "The HTC Vive is a virtual reality headset developed by HTC and Valve Corporation. The headset uses 'room scale' tracking technology, allowing the user to move in 3D space and use motion-tracked handheld controllers to interact with the environment.",
+    "brand": "HTC",
+    "price": 499.99,
+    "sale_price": null,
+    "inventory": 29,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/vive@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/vive@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/vive@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/vive@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/vive@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/vive@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/vive-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/vive-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/vive-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/vive-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/vive-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/vive-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/vive-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/vive-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/vive-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Red, white, blue"
+      },
+      {
+        "label": "Material",
+        "value": "Leather, suede, textile"
+      },
+      {
+        "label": "Operational",
+        "value": "Yes"
+      }
+    ],
+    "tags": [
+      "Limited Time Only"
+    ],
+    "related_products": []
+  },
+  {
+    "id": "23",
+    "name": "Halo Warthog",
+    "description": "The M12 Light Reconnaissance Vehicle (M12 LRV), commonly referred to as the Warthog, is a variant of the M12 Force Application Vehicle and the UNSC's most prolific anti-infantry vehicle. It is identical to the M12 FAV except that it features a mounted M41 Light Anti-Aircraft Gun or M46 Light Anti-Aircraft Gun.",
+    "brand": "Microsoft",
+    "price": 29.99,
+    "sale_price": null,
+    "inventory": 33,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/warthog@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/warthog@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/warthog@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/warthog@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/warthog@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/warthog@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/warthog-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/warthog-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/warthog-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/warthog-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/warthog-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/warthog-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/warthog-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/warthog-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/warthog-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Gray, olive drab green, black"
+      },
+      {
+        "label": "Material",
+        "value": "Metal"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [],
+    "related_products": []
+  },
+  {
+    "id": "24",
+    "name": "Wheelchair",
+    "description": "A wheelchair, often abbreviated to just 'chair', is a chair with wheels, used when walking is difficult or impossible due to illness, injury, or disability. Wheelchairs come in a wide variety of formats to meet the specific needs of their users. They may include specialized seating adaptions, individualized controls, and may be specific to particular activities, as seen with sports wheelchairs and beach wheelchairs. The most widely recognised distinction is between powered wheelchairs ('powerchairs'), where propulsion is provided by batteries and electric motors, and manually propelled wheelchairs, where the propulsive force is provided either by the wheelchair user/occupant pushing the wheelchair by hand ('self-propelled'), or by an attendant pushing from the rear ('attendant propelled').",
+    "brand": "Segway",
+    "price": 59.99,
+    "sale_price": 54.99,
+    "inventory": 33,
+    "thumbnail": {
+      "1x": "https://hackathon-assets.now.sh/thumbnails/wheelchair@1x.png",
+      "2x": "https://hackathon-assets.now.sh/thumbnails/wheelchair@2x.png",
+      "3x": "https://hackathon-assets.now.sh/thumbnails/wheelchair@3x.png"
+    },
+    "images": [
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/wheelchair@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/wheelchair@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/wheelchair@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/wheelchair-left@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/wheelchair-left@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/wheelchair-left@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/wheelchair-front@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/wheelchair-front@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/wheelchair-front@3x.png"
+      },
+      {
+        "1x": "https://hackathon-assets.now.sh/assets/wheelchair-right@1x.png",
+        "2x": "https://hackathon-assets.now.sh/assets/wheelchair-right@2x.png",
+        "3x": "https://hackathon-assets.now.sh/assets/wheelchair-right@3x.png"
+      }
+    ],
+    "custom_fields": [
+      {
+        "label": "Color",
+        "value": "Green, white , black"
+      },
+      {
+        "label": "Material",
+        "value": "Metal, rubber"
+      },
+      {
+        "label": "Operational",
+        "value": "No"
+      }
+    ],
+    "tags": [],
+    "related_products": [
+      "11",
+      "20"
+    ]
+  }
+]

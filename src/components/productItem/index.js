@@ -10,7 +10,7 @@ const ProductItem = (props) => {
   allItems.find(item => {
     if (item.id === props.match.params.id){
       console.log(item)
-      currItem = <div>{item.name}</div>
+      currItem = <div>{item.name}{item.brand}</div>
     }
   })
 

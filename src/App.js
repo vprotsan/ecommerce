@@ -18,10 +18,7 @@ class App extends React.Component {
     super();
     this.state = {
       products: [],
-      currItem: null,
-      currItemObject: null,
-      isLoading: true,
-      cart: null
+      isLoading: true
     }
   }
 
@@ -45,43 +42,44 @@ class App extends React.Component {
     });
 
   }
-
-  clickedItem = index => {
-    let currItem = this.state.products[index];
-    // let currObj = this.state.products[index];
-    // console.log('curr item' + this.state.currItem);
-
-		this.setState({
-			currItem: currItem.id,
-      currItemObject: currItem
-		}, function(){
-      // console.log('curr item' + this.state.currItem);
-    });
-	}
-
-  addToCart = (index, event) => {
-    event.preventDefault();
-    let addedItem = this.state.products[index];
-
-    var a;
-    //is anything in localstorage?
-    if (localStorage.getItem('session') === null) {
-        a = [];
-    } else {
-         // Parse the serialized data back into an array of objects
-         a = JSON.parse(localStorage.getItem('session'));
-     }
-     a.push(addedItem);
-     // Re-serialize the array back into a string and store it in localStorage
-     localStorage.setItem('session', JSON.stringify(a));
-     let currItems = localStorage.getItem('session');
-       // let currItems = localStorage.getItem('cartItems');
-      let parsedItems = JSON.parse(currItems)
-
-      this.setState({
-        cart: parsedItems.length
-      })
-  }
+  //
+  // clickedItem = index => {
+  //   let currItem = this.state.products[index];
+  //   // let currObj = this.state.products[index];
+  //   // console.log('curr item' + this.state.currItem);
+  //
+	// 	this.setState({
+	// 		currItem: currItem.id,
+  //     currItemObject: currItem
+	// 	}, function(){
+  //     // console.log('curr item' + this.state.currItem);
+  //   });
+	// }
+  //
+  // addToCart = (index, event) => {
+  //   event.preventDefault();
+  //   let addedItem = this.state.products[index];
+  //
+  //   var a, b;
+  //   //is anything in localstorage?
+  //   if (localStorage.getItem('session') === null) {
+  //       a = [];
+  //   } else {
+  //        // Parse the serialized data back into an array of objects
+  //        a = JSON.parse(localStorage.getItem('session'));
+  //        console.log(a)
+  //    }
+  //    a.push(addedItem);
+  //    // Re-serialize the array back into a string and store it in localStorage
+  //    localStorage.setItem('session', JSON.stringify(a));
+  //    let currItems = localStorage.getItem('session');
+  //      // let currItems = localStorage.getItem('cartItems');
+  //     let parsedItems = JSON.parse(currItems)
+  //
+  //     this.setState({
+  //       cart: parsedItems.length
+  //     })
+  // }
 
   render(){
     return(
@@ -89,13 +87,16 @@ class App extends React.Component {
         <div className="container">
           <CartItem cart={this.state.cart}/>
           <Switch>
-            <Route exact path="/" render={() => <MainPage products={this.state.products}
+            {/* <Route exact path="/" render={() => <MainPage products={this.state.products}
                                                           addToCart={this.addToCart}
                                                           clickedItem={this.clickedItem}
                                                           isLoading={this.state.isLoading}
+                                                  />}/> */}
+            <Route exact path="/" render={() => <MainPage products={this.state.products}
+                                                          isLoading={this.state.isLoading}
                                                   />}/>
-            <Route path="/cart" render={() => <Cart cart={this.state.cart}/>}/>
-            <Route exact path="/products/:id" render={props  => <ProductItem {...props} x={this.state.products}/>}/>
+            <Route path="/cart" render={() => <Cart />}/>
+            <Route exact path="/products/:id" render={props  => <ProductItem />}/>
           </Switch>
         </div>
       </BrowserRouter>
